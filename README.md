@@ -1,0 +1,1 @@
+Chrome extension made with jquery, generate random quotes on new tab.
